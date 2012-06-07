@@ -1,0 +1,4 @@
+tabs
+====
+
+jQuery tabs plugin
