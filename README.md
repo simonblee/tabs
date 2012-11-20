@@ -8,3 +8,7 @@ Create a set of containers with the class ".tab-container" and put them inside o
 
 
 .....more to come
+
+Examples
+--------
+We use the tabs on all of our product pages. Example: http://www.thegiftmansion.com.au/flying/helicopter-flight-hunter-valley-bimbadgen-estate-lunch-tour.html
